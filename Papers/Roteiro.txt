@@ -1,0 +1,62 @@
+Introdução:
+    - O que são jogos
+    	* Foco em jogos digitais
+
+Desenvolvimento:
+
+Helton:
+	Jogos estao marcados por terem cirado novas tecnologias, 
+    - Jogos que marcaram a industria e
+    as pessoas por traz desses jogos e
+    a evelução da tecnologia
+        * Tenis for two
+        	William Rijinbotam: Considerado o primeiro "jogo eletronico de verdade", feito por um fisico para um computador analogico que mostrava o jogo em um osciloscopio, provando que computadores nao eram apenas para trabalho
+        * Pong
+        	Allan Alcorn: O primeiro jogo comercialmente de sucesso, lancado para o atari, praticamente deu incio a industria dos jogos eletronicos
+        * Space Invaders
+        	Tomohiro Nishikado: Um jogo que utilizava as limitacoes do proprio console para deixar o jogo mais dificil, como as coisas que estavam na tela deixavam  o jogo mais lento, a medida que o jogador ia progredindo no jogo, ele tornava mais rapido
+        * Super Mario
+        	O jogo que mais revolucionou os jogos de plataforma, e utilizou bem as limitacoes do hardware da epoca, reaproveitando por exemplo, varias imagens dentro do jogo, para ocupar menos espaco da fita, que na epoca guaradava apenas alguns kbytes
+        * The legend of zelda
+        	Takashi Tezuka & Shigeru : Revolucionou como os mapas de jogos eram feitos e como historias complexas poderiam ser contadas, na comeco da era 3d, conseguia colocar areas muito grandes em fitas com pouco espaco, sem sacrificar a performace do hardware
+        * Donkey kong country
+        	Shigeru Miyamoto: Seus graficos aparentavam ser 3d, mas na verdade eram renderizacoes em 2d de modelos feitos previamente,David Wise: mas o impressionante mesmo era a trila sonora que nao ocupava tanto espaco na fita, mas deinitviamente era impressionante na epoca por ate mesmo reaproveitar os sons em outras musicas, o equipamento na epoca era caro e precisava de um sistema de resfriamento muito potente para funcionar no calor do verao
+        * Super mario 64
+        	Shigeru Miyamoto : Tendo um chip grafico esppecialmente desencolvido para ele, foi uma grande revolucao, que precisou de 3 anos para ser desenvolvido, trouxe grande inovacao no sistema de cameras usados em video games que tem um legado que dura ate hoje, alem de seus graficos impressionantes para epoca, sua programacao robusta em relacao a jogos mais antigos tambem trouxa grandes inovacoes que possibilitaram a evolucao dos jogos
+        * Doom
+        	John Romero: Um jogo que ficou conhecido ate os dias de hoje como "aquele que roda em qualquer lugar", teve sua revolucao princiapal no metodo de como usava graficos 2d para gerar uma sensacao de 3d, e ao contrario dos jogos que vieram antes dele, conseguia ate mesmo simular salas com diferentes elevacoes, ou seja, seus mapas poderiam ter mais de um andar. Claro que isso nao era possivel na epoca e tudo foi "truque" de programacao muito bem elaborado, que utilizava algumas tecnicas para poder dar essa impressao, mas o seu legado esta ai ate hoje e foi um grande passo na industria
+        * Half Life
+        	Gabe Newell & Harry Teasley (ex-empregados da Microsoft): o jogo que iniciou a era moderna de video games, a equipe da Valve, planejava utilizar o mesmo codio que doom usava, mas ao inves disso, modificou cerca de 70% do codico, possibilitando animacoes em 3d e suporte ao mais novo codigo da microsoft para graficos da epoca, o direct3d, foi o primeiro jogo de fps com historia complexa e o primeiro de sua epoca a contar ela de uma forma tao elaborada
+        * Portal
+        	A Valve, empresa dona de Half Life, viu um jogo indie sobre portais e seu presidente, Gabe, logo ofereceu empregos em sua empresa apos ver o potencial do jogo, que acabou sendo um projeto ambicioso que possibilitou a programacao de fisica complexa em jogos, e e' um exemplo de como pequenas desenvolvedores podem ser reconhecidos e gerar revolucoes. O jogo utilizava uma versao com codigo mais rapido do que o usado em half-life e por conta dos programadores terem que trabalhar rapido no projeto, eles reutilizaram muito dos codigos e artes da serie half-life, fazendo as duas franquias serem conectadas
+        * The elder scrolls
+        	A serie the elder scrolls, propriedade da bethesda, foi uma serie presende desde a era do ms-dos ate os dias de hoje, e foi um grande exemplo de como o pensamento dos programadores impulsionam um projeto, pois a grande quantidade de dialogo e conteudo utilizado para contar a historia so jogo, so foi possivel devido a grandes mudancas no codigo por partes dos progamadores que tornaram viavel criar um rpg de mundo aberto com historia complexa assim como era naquela epoca, e ate hoje, um de seus jogos mais recentes parece que e' novo mesmo tendo sido lancado a 8 anos atras devido ao programadores que trabalharam para fazer um motor grafico extremamente robusto, suportando ate mesmo modificacoes em seu codigo fonte
+        + Captura de movimentos -> Avatar, placas de video e processadores que computam jogos
+        	Os jogos influenciaram muito nao so em sua area mas tambem em toda a tecnologia, visto que quando comecaram, eles deveriam ser programados diretamente na placa de circuitos por enegneheiros eletronicos, mais tarde recorrendo ao assembly e mais posteriormente sendo utilizadas linguages de programacao mais modernas. Algumas das mudancas nas linguagens de porgramacao foram feitas justamente para melhor fazer jogos. hardwares especificos tambem foram criados justamente para eles, tais como as placas de video modernas.
+        	Um exemplo de como a industria de jogos influencia em outras e' o filme Avatar de James Cameron, que so foi possivel utilizando a tecnologia de captura de movimentos criada para jogos
+::::
+
+Samuel:
+    - Revolução Idie
+        * Brade
+        * Super meat boy
+        * Minecraft
+        * Limbo
+        * Factorio
+        * Terraria
+        * Horizon chase (Exemplo de jogo br)
+    - Industria nacional vs industria
+    Brasileira e como entrar no mercado
+        * Industria internacial, pricipalmente a americana e dominada por AAA
+        * Industria Brasileira é predominantemente indie
+        * Como entrar no mercado, senta e vai desenvolver, game jams, jogos indie
+        "Fazer jogos é mais dificil do que construir foguetes"
+:::::
+
+Igor:
+    - Jogos como arte
+
+Conclusão:
+    - Fazer uma reflexão que pareça inteligente
+    repetindo tudo oque já falamos
+:::::
